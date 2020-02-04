@@ -1,0 +1,11 @@
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.exe
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.deps.json
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.runtimeconfig.json
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.runtimeconfig.dev.json
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.dll
+C:\Users\mgaru\source\repos\sendMail\sendMail\bin\Debug\netcoreapp3.1\sendMail.pdb
+C:\Users\mgaru\source\repos\sendMail\sendMail\obj\Debug\netcoreapp3.1\sendMail.csprojAssemblyReference.cache
+C:\Users\mgaru\source\repos\sendMail\sendMail\obj\Debug\netcoreapp3.1\sendMail.AssemblyInfoInputs.cache
+C:\Users\mgaru\source\repos\sendMail\sendMail\obj\Debug\netcoreapp3.1\sendMail.AssemblyInfo.cs
+C:\Users\mgaru\source\repos\sendMail\sendMail\obj\Debug\netcoreapp3.1\sendMail.dll
+C:\Users\mgaru\source\repos\sendMail\sendMail\obj\Debug\netcoreapp3.1\sendMail.pdb
